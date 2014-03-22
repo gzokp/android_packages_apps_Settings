@@ -381,7 +381,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="end_time_title">End</string>
 
     <!-- About phone screen,  setting option name -->
-    <string name="mod_version">Carbon version</string>
+    <string name="mod_version">GZOKP version</string>
     <string name="mod_version_default">Unknown</string>
     <!-- About phone screen, build date of ROM -->
     <string name="build_date">Build date</string>
@@ -392,14 +392,14 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="mem_info">Memory</string>
     <!-- About phone screen, status item label -->
 
-    <!-- CARBON Settings  -->
+    <!-- GZOKP Settings  -->
     <!-- Settings main menu category heading. Interface (Launcher, Themes, System). [CHAR LIMIT=40] -->
     <string name="header_category_carbon">Personalization</string>
 
-    <string name="carbon_fibers_title">Carbon Fibers</string>
+    <string name="carbon_fibers_title">Ground Control</string>
 
     <!-- Themes settings -->
-    <string name="themes_settings_title">Themes</string>
+    <string name="themes_settings_title">Deviations</string>
 
     <!-- Performance settings -->
     <string name="performance_settings_title">Performance</string>
@@ -608,7 +608,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
 
     <!-- Message of dialog confirming that user wants to restart their device with a new runtime -->
     <string name="custom_runtime_warning_title">Warning</string>
-    <string name="custom_runtime_warning_message">ART is not supported by CarbonRom. This setting is included for experimentation only and has the potential to cause instability, crashes, data loss or prevent the proper boot of your device. Visit &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Introducing ART&lt;/a&gt; for more information.&lt;br/&gt;&lt;br/&gt;We request you do not file bug reports if you have enabled ART as your runtime.&lt;br/&gt;&lt;br/&gt;Are you sure you want to reboot to change runtime from <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> to <xliff:g id="new" example="libart.so">%2$s</xliff:g>?</string>
+    <string name="custom_runtime_warning_message">ART is not supported by GZOKP. This setting is included for experimentation only and has the potential to cause instability, crashes, data loss or prevent the proper boot of your device. Visit &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Introducing ART&lt;/a&gt; for more information.&lt;br/&gt;&lt;br/&gt;We request you do not file bug reports if you have enabled ART as your runtime.&lt;br/&gt;&lt;br/&gt;Are you sure you want to reboot to change runtime from <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> to <xliff:g id="new" example="libart.so">%2$s</xliff:g>?</string>
 
     <!-- Lockscreen pin shuffle -->
     <string name="lock_numpad_random_title">Change the order of PIN pad numbers</string>
@@ -704,7 +704,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="accessibility_home_button_answers_call_prerefence_title">Home button answers call</string>
 
     <!-- Themes -->
-    <string name="theme_settings_title">Dark Carbon</string>
+    <string name="theme_settings_title">Darkness</string>
     <string name="theme_auto_mode_title">Switch theme</string>
     <string name="theme_auto_mode_off">Manual</string>
     <string name="theme_auto_mode_lightsensor">On light condition change</string>
